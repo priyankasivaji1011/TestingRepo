@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BDD Framework Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Cucumber BDD Tests(failed)">
+    <classes>
+      <class name="com.evry.bdd.runners.TestRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="runScenario" invocation-numbers="1"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.evry.bdd.runners.TestRunner -->
+    </classes>
+  </test> <!-- Cucumber BDD Tests(failed) -->
+</suite> <!-- Failed suite [BDD Framework Suite] -->

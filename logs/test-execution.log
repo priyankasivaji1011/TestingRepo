@@ -1,0 +1,9 @@
+[2025-11-03 22:19:13] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\EI06754\Downloads\Assignment\bdd-framework\testng.xml
+
+[2025-11-03 22:19:14] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+[2025-11-03 22:19:14] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\EI06754\.cache\selenium\chromedriver\win64\141.0.7390.122\chromedriver.exe
+[2025-11-03 22:19:16] INFO  com.evry.bdd.pages.ProductListPage - Launching the application: https://shop.tietoevry.no/
+[2025-11-03 22:19:20] INFO  com.evry.bdd.pages.ProductListPage - Waiting for the product page to load...
+[2025-11-03 22:19:20] INFO  com.evry.bdd.pages.ProductListPage - Attempting to change language...
+[2025-11-03 22:19:20] INFO  com.evry.bdd.pages.ProductListPage - Expanding product panel...

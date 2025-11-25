@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <documentTitle>BDD Test Automation Report</documentTitle>
+        <reportName>Automation Execution Report</reportName>
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+    </configuration>
+</extentreports>
