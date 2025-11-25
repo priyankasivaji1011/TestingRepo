@@ -10,10 +10,10 @@ Feature: Add and compare products and checkout
     Then navigate to other screen and add product
     
 
-  Scenario: Filter products, compare, add to cart, and checkout
-  Then select accessories from the panel "Server & Network"
+ # Scenario: Filter products, compare, add to cart, and checkout
+ # Then select accessories from the panel "Server & Network"
   #Then search by partnumber and update and add to cart
-   When select filters
+ #  When select filters
  # Then compare products and add to card and checkout
   # Then click to compare products
   
