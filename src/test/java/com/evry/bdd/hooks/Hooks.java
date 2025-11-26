@@ -37,11 +37,12 @@ public class Hooks {
             ChromeOptions options = new ChromeOptions();
            // options.addArguments("--headless");
             //push
-            options.addArguments("--disable-gpu");
-            options.addArguments("--window-size=1920,1080");
-            options.addArguments("--no-sandbox");
-            options.addArguments("--disable-dev-shm-usage");
-
+			/*
+			 * options.addArguments("--disable-gpu");
+			 * options.addArguments("--window-size=1920,1080");
+			 * options.addArguments("--no-sandbox");
+			 * options.addArguments("--disable-dev-shm-usage");
+			 */
             WebDriver driver = new ChromeDriver(options);
             DriverManager.setDriver(driver);
             System.out.println("🌐 Headless Chrome launched successfully.");
