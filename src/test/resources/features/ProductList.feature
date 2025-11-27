@@ -2,7 +2,7 @@ Feature: Add and compare products and checkout
 
     Scenario: Add accessories and screens to cart and complete checkout
     Given user launches the application
-  #  When user changes the language
+   When user changes the language
   # Then validate page title
    # When login text exists
    # Then select accessories from the panel "Accessories"
